@@ -1,3 +1,5 @@
+![archi](./image.png)
+
 功能说明：
 GUI 和 拖拽功能: 使用 tkinter (标准库) 和 tkinterdnd2 (处理拖拽)。
 图片转PDF: 使用 Pillow (PIL)。
